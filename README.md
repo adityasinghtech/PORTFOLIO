@@ -26,7 +26,7 @@ My long-term goal is to grow into a **Full Stack Developer** and work on impactf
 - Clean and modern UI design
 - Scroll reveal animations
 - Simple contact form UI
-- Pure **Vanilla JavaScript** (no frameworks)
+- Pure **JavaScript** (no frameworks)
 
 ---
 
